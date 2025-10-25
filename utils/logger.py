@@ -1,0 +1,9 @@
+import logging
+
+# Konfigurasi logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s"
+)
+
+logger = logging.getLogger("eye_disease_api")

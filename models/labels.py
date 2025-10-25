@@ -1,0 +1,6 @@
+LABELS = [
+    "Cataract",
+    "Diabetic Retinopathy",
+    "Glaucoma",
+    "Normal"
+]
